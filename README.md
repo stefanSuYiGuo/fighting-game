@@ -16,3 +16,7 @@ This is an online fighting game.
 - Each frame should be finished in 60 seconds.
 - If one kills another, then the one wins.
 - If in 60 seconds, nobody dies, then the one who has more life value wins.
+
+### Screenshot
+
+![Alt text](image.png)
